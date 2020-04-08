@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fd06ca1-f6a4-41d6-b2b4-e3807224dd9c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFipdGiQmbzhkodFaEShfw4o0X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.BubbleSortAlex">
+    <configuration name="BubbleSortAlex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alexwoo.BubbleSortAlex" />
+      <module name="BubbleSortArray" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="codegym.BubbleSort" />
+      <module name="BubbleSortArray" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.BubbleSortAlex" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BubbleSortAlex" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fd06ca1-f6a4-41d6-b2b4-e3807224dd9c" name="Default Changelist" comment="" />
+      <created>1586337927011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586337927011</updated>
+      <workItem from="1586337928306" duration="512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1554" height="300" key="GridCell.Tab.0.bottom" timestamp="1586338457261">
+      <screen x="0" y="27" width="1600" height="800" />
+    </state>
+    <state width="1554" height="300" key="GridCell.Tab.0.bottom/0.27.1600.800@0.27.1600.800" timestamp="1586338457261" />
+    <state width="1554" height="300" key="GridCell.Tab.0.center" timestamp="1586338457258">
+      <screen x="0" y="27" width="1600" height="800" />
+    </state>
+    <state width="1554" height="300" key="GridCell.Tab.0.center/0.27.1600.800@0.27.1600.800" timestamp="1586338457258" />
+    <state width="1554" height="300" key="GridCell.Tab.0.left" timestamp="1586338457256">
+      <screen x="0" y="27" width="1600" height="800" />
+    </state>
+    <state width="1554" height="300" key="GridCell.Tab.0.left/0.27.1600.800@0.27.1600.800" timestamp="1586338457256" />
+    <state width="1554" height="300" key="GridCell.Tab.0.right" timestamp="1586338457259">
+      <screen x="0" y="27" width="1600" height="800" />
+    </state>
+    <state width="1554" height="300" key="GridCell.Tab.0.right/0.27.1600.800@0.27.1600.800" timestamp="1586338457259" />
+  </component>
+</project>
